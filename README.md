@@ -1,4 +1,6 @@
-# Auth Routes & Controllers
+# Node Auth Tutorial (JWT) - Smoothies
+
+## Auth Routes & Controllers
 
 Auth Routes
 - `/signup`   GET   sign up page
